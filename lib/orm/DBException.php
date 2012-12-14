@@ -1,0 +1,3 @@
+<?
+class DBException extends Exception { }
+?>
